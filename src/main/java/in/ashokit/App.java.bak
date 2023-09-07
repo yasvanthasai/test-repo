@@ -9,5 +9,10 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+<<<<<<< Updated upstream
+		System.out.println( "Another change!" );
+=======
+System.out.println( "Hello World!" );
+>>>>>>> Stashed changes
     }
 }
